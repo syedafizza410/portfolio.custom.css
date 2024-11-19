@@ -63,7 +63,7 @@ export default function Home() {
           <a href='/cv.pdf' className="tsv">Download Cv</a>
         </div>
         <div className="home-img">
-          <Image src={img1} alt="Profile Image" width={500} height={500} />
+          <Image src={img1} alt="Profile Image" />
         </div>
       </section>
     </>
