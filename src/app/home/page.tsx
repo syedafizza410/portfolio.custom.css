@@ -23,7 +23,7 @@ export default function Home() {
           </p>
           <br />
           <br />
-          <a href="#about" className="tsv">
+          <a href="about" className="tsv">
             Read More
           </a>
           <div className="social-accounts">
@@ -60,7 +60,7 @@ export default function Home() {
               <FaLinkedin />
             </a>
           </div>
-          <a href='/cv.pdf' className="tsv">Download Cv</a>
+          <a href='/CV.pdf' download="CV.pdf" className="tsv">Download Cv</a>
         </div>
         <div className="home-img">
           <Image src={img1} alt="Profile Image" />

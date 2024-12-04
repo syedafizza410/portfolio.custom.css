@@ -112,8 +112,8 @@ section{
   }
 
 .home-img img {
-    width: 65em;
-    height: 60em;
+    max-width: 35vw;
+    height: 35vw;
     border-radius: 20px;
 }
 
@@ -350,7 +350,7 @@ span {
     
     .home{
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
     }
     .menu-icon {
@@ -395,7 +395,7 @@ span {
 
     .home{
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
     }
 
@@ -439,12 +439,12 @@ span {
 
 @media (max-width: 768px) {
     .navbar.show {
-        display: block;
+        display: flex;
     }
 
     .home{
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
     }
     .home-img img {
@@ -524,7 +524,7 @@ span {
     }
       .home{
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
       }
       .navbar {
@@ -552,7 +552,7 @@ span {
 
     .home {
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
     }
     .home-img img {
@@ -598,7 +598,7 @@ span {
 
     .home{
         flex-direction: column;
-        position: absolute;
+        position: relative;
         align-items: center;
     }
 

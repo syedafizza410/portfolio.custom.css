@@ -17,7 +17,7 @@ export default function Projects() {
           <div className="layer">
             <h4>Web Design</h4>
             <p>My latest project dynamic product page</p>
-            <a href="https://vivo-v23-5g.vercel.app/"><i className="bx bx-link-external"></i></a>
+            <a href="https://vivo-v23-5g.vercel.app/"></a>
           </div>
         </div>
 
@@ -26,7 +26,7 @@ export default function Projects() {
           <div className="layer">
             <h4>Web Design</h4>
             <p>My latest project landing page</p>
-            <a href="https://landing-web-smoky.vercel.app/"><i className="bx bx-link-external"></i></a>
+            <a href="https://landing-web-smoky.vercel.app/"></a>
           </div>
         </div>
 
@@ -35,7 +35,7 @@ export default function Projects() {
           <div className="layer">
             <h4>Web Design</h4>
             <p>My latest project dynamic resume builder</p>
-            <a href="https://shareable-resume-builder-xi.vercel.app/"><i className="bx bx-link-external"></i></a>
+            <a href="https://shareable-resume-builder-xi.vercel.app/"></a>
           </div>
         </div>
 
@@ -45,7 +45,7 @@ export default function Projects() {
           <div className="layer">
             <h4>Web Design</h4>
             <p>My latest project web calculator</p>
-            <a href="https://web-calculator-rosy.vercel.app/"><i className="bx bx-link-external"></i></a>
+            <a href="https://web-calculator-rosy.vercel.app/"></a>
           </div>
         </div>
 
@@ -54,7 +54,7 @@ export default function Projects() {
           <div className="layer">
             <h4>Web Design</h4>
             <p>My latest project multi pages react app</p>
-            <a href="https://multi-page-web-five.vercel.app/"><i className="bx bx-link-external"></i></a>
+            <a href="https://multi-page-web-five.vercel.app/"></a>
           </div>
         </div>
 
